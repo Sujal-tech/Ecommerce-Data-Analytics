@@ -1,0 +1,16 @@
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.log
+*.zip
+*.pbix
+kaggle/
+data/
+*.csv
+*.pbix
+*.zip
+python_analysis/outputs/
