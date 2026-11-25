@@ -89,5 +89,7 @@ PostgreSQL must be configured with the database and tables used by the Python sc
 ## Business Outcomes
 
 The project demonstrates how SQL, Python and Power BI can be used to transform e-commerce transaction data into business insights and interactive visual reports.
+<img width="1178" height="735" alt="image" src="https://github.com/user-attachments/assets/3082583f-f6b3-417b-8016-6666e954923b" />
+
 
 **Note:** Revenue represents product selling value, not net profit. The original dataset contains Brazilian transactions and uses Brazilian reais (BRL).
